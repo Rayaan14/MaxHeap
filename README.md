@@ -1,2 +1,2 @@
 # MaxHeap
-Implementation of a Max Heap and Generic Max Heap Class in Java. 
+Implementation of a max heap and generic max heap class.
